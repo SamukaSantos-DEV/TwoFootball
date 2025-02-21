@@ -25,6 +25,8 @@ O **TwoFootball** é uma plataforma que permite acessar e gerenciar informaçõe
 
 ## 📷 Screenshots  
 
+🖥️ Site TwoFootball
+
 ### 🌟 Página Inicial  
 
 ![image](https://github.com/user-attachments/assets/14083f6e-f44f-45e9-8bbf-a0dd5bd1c6de)
@@ -36,16 +38,29 @@ O **TwoFootball** é uma plataforma que permite acessar e gerenciar informaçõe
 ![image](https://github.com/user-attachments/assets/1a25af21-023b-473a-8239-9d9e5d93b79f)
 
 
-
 ### 👤 Perfil do Usuário  
 
-![image](https://github.com/user-attachments/assets/8ba742db-cbb5-47ee-bfa3-fb8185b47bc5)
+![Perfil do Usuário](https://github.com/user-attachments/assets/8ba742db-cbb5-47ee-bfa3-fb8185b47bc5)  
 
-🎥 Demonstração do Aplicativo
+---
 
-Veja o TwoFootball em ação no vídeo abaixo! 📹🔥
+## 🎥 Demonstração do Aplicativo  
 
-![](https://github.com/SamukaSantos-DEV/TwoFootball/blob/main/Aplicativo%20Mobile/V%C3%ADdeo%20APP.gif)
+### 🔐 Login  
+
+![Login](https://github.com/user-attachments/assets/3ee9ab88-e1a0-4284-a5d6-69d209775d2f)  
+
+### 🏠 Home  
+
+![Home](https://github.com/user-attachments/assets/eb4f04e7-e41b-4625-9c3c-197bcc92ffb9)  
+
+### 📋 Menu  
+
+![Menu](https://github.com/user-attachments/assets/7745f148-ddbf-4d6d-aa27-8e94e86b6b6a)  
+
+### 👤 Usuário  
+
+![Usuário](https://github.com/user-attachments/assets/fa3e3b8f-af34-4391-bd72-01834f1238a5)  
 
 
 ## 🎯 Como Usar  
