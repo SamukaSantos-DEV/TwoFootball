@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: "Poppins";
+}
+
+.row{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#adicionarTecnico{
+    text-align: right;
+}
+
+#adicionarJTecnico form img{
+    margin: 5px 0px -15px 54px;
+    width: 230px;
+}
+
+#adicionarTecnico label{
+    font-family: "Poppins";
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+#adicionarTecnico input{
+    width: 320px;
+    padding: 10px 15px 10px 15px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin-left: 12px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+#adicionarTecnico form{
+    border-radius: 25px 0px 25px 25px;
+    box-shadow: gray 0px 0px 25px;
+    width: 345px;
+    height: 340px;
+    text-align: left;
+}
+
+#tabelaTecnico{
+    float: left;
+    width: 320px;
+}
+
+#adicionar{
+    font-weight: bolder;
+    color: white;
+    background-color: gray;
+    box-shadow: gray 0px 0px 15px;
+}
+
+#tabelaRegistros{
+    height: 340px;
+    border-radius: 0px 25px 25px 25px;
+    overflow-y: scroll;
+    width: 420px;
+    font-size: 15px;
+    margin-left: 1px;
+}
+
+#topoTable tr th{
+    text-align: center;
+    border: 1px solid rgb(63, 63, 63);
+    color: rgb(63, 63, 63);
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+}
+
+#corpoTable tr td{
+    border: 1px solid gray;
+    background-color: white;
+    padding: 5px;
+}

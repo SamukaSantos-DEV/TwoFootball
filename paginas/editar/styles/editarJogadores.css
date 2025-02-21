@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: "Poppins";
+}
+
+#formDados{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 510px;
+    box-shadow: gray 0px 0px 25px;
+    text-align: left;
+    border-radius: 35px;
+}
+
+#formDados img{
+    margin-left: 97px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#formDados h3{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 75px;
+    margin-bottom: 25px;
+}
+
+#formDados label{
+    margin-left: 18px;
+    font-family: "Poppins";
+    font-size: 16px;
+}
+
+#formDados input{
+    width: 480px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Poppins";
+    margin-top: -10px;
+    margin-bottom: 15px;
+    margin-left: 13px;
+}
+
+#formDados select{
+    width: 480px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Poppins";
+    margin-top: -10px;
+    margin-bottom: 15px;
+    margin-left: 13px;
+}
+
+#fotoPerfil{
+    width: 480px;
+    border-radius: 15px;
+    padding: 10px 15px 10px 15px;
+}
+
+#adicionar{
+    padding: 15px 0px 15px 0px;
+    font-weight: bolder;
+    font-size: 23px;
+    color: white;
+    margin-top: 5px;
+    background-color: gray;
+}
+
+#mudarImagem{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 510px;
+    box-shadow: gray 0px 0px 25px;
+    text-align: left;
+    border-radius: 35px;
+    animation: fadeIn;
+    animation-duration: 1s;
+    background-color: white;
+}
+
+#mudarImagem label{
+    margin-left: 18px;
+    font-family: "Poppins";
+    font-size: 16px;
+}
+
+#addImagem{
+    padding: 15px 0px 15px 0px;
+    font-weight: bolder;
+    font-size: 23px;
+    color: white;
+    margin-top: 5px;
+    background-color: gray;
+    width: 480px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Poppins";
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 13px;
+}
+
+#abrirTelaImagem{
+    font-weight: bolder;
+    color: white;
+    background-color: gray;
+    box-shadow: 0px 0px 10px gray;
+    width: 470px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-size: 23px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+}

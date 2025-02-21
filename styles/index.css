@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body{
+    font-family: "Poppins";
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#inicio{
+    margin-top: 25px;
+}
+
+#divInicio h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 61px;
+    text-shadow: 2px 2px 30px gray;
+}
+
+.sobre{
+    text-align: justify;
+    margin: 0 auto;
+    width: 500px;
+    height: 150px;
+}
+
+#linkDashboard{
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    background: linear-gradient(to right, rgba(2,80,180,255), rgba(54,7,141,255));
+    padding: 20px 0px 20px 0px;
+    border-radius: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#aDashboard{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    width: 500px;
+}
+
+#divDashboard{
+    text-align: center;
+}
+
+#inicio2{
+    margin-top: 50px;
+    width: 100%;
+    background-color: rgb(119, 119, 119);
+    padding: 25px 0px 0px 0px;
+    box-shadow: rgb(99, 99, 99) 0px 0px 10px;
+    color: white;
+}
+
+#divPlayersImg img{
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -90px;
+}
+
+#divPlayers h1{
+    margin-top: 0px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 61px;
+    text-shadow: 2px 2px 30px rgb(128, 128, 128);
+}
+
+#divPlayers p{
+    width: 620px;
+    margin-bottom: 25px;
+}
+
+#divPlayersImg{
+    text-align: center;
+    user-select: none;
+    pointer-events: none;
+}
+
+#rowTabelaJogadores{
+    text-align: center;
+}
+
+#rowTabelaJogadores h5{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#tabelaRegistros{
+    margin-top: 15px;
+    height: 380px;
+    border-radius: 25px;
+    overflow-y: scroll;
+    width: 560px;
+    font-size: 15px;
+}
+
+table{
+    margin-left: 5%;
+}
+
+#topoTable tr th{
+    text-align: center;
+    border: 1px solid rgb(63, 63, 63);
+    color: rgb(63, 63, 63);
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+}
+
+#corpoTable tr td{
+    border: 1px solid gray;
+    background-color: white;
+    padding: 5px;
+}
+
+#rodape{
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+    height: 190px;
+    background-color: rgb(119, 119, 119);
+    color: white;
+    font-family: "Poppins";
+    box-shadow: rgb(99, 99, 99) 0px 0px 10px;
+}
+
+#rodape h1{
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
+#rodape p{
+    margin-top: 10px;
+}
+
+i{
+    margin-left: 8px;
+}
