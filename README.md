@@ -27,17 +27,22 @@ O **TwoFootball** é uma plataforma que permite acessar e gerenciar informaçõe
 
 ### 🌟 Página Inicial  
 
-![image](https://github.com/user-attachments/assets/9495cdf4-cf71-4060-a848-d47323351b3a)
+![image](https://github.com/user-attachments/assets/14083f6e-f44f-45e9-8bbf-a0dd5bd1c6de)
+
 
 
 ### 🏆 Gerenciamento de Campeonatos  
 
- ![image](https://github.com/user-attachments/assets/c83d02d4-f07c-4b3e-a8f9-896d9e89fd2f)
+![image](https://github.com/user-attachments/assets/1a25af21-023b-473a-8239-9d9e5d93b79f)
+
 
 
 ### 👤 Perfil do Usuário  
 
-![image](https://github.com/user-attachments/assets/a75d4876-f3c1-4687-b2fb-115f520b006b)
+![image](https://github.com/user-attachments/assets/8ba742db-cbb5-47ee-bfa3-fb8185b47bc5)
+
+
+
 
 
 ## 🎯 Como Usar  
