@@ -45,7 +45,7 @@ O **TwoFootball** é uma plataforma que permite acessar e gerenciar informaçõe
 
 Veja o TwoFootball em ação no vídeo abaixo! 📹🔥
 
-![](https://github.com/SamukaSantos-DEV/TwoFootball/blob/main/Aplicativo%20Mobile/V%C3%ADdeo%20APP.mp4)
+![](https://github.com/SamukaSantos-DEV/TwoFootball/blob/main/Aplicativo%20Mobile/V%C3%ADdeo%20APP.gif)
 
 
 ## 🎯 Como Usar  
